@@ -367,7 +367,7 @@ PHP
 
 * mysqli_real_escape_string — Escapes special characters in a string for use in an SQL statement, taking into account the current charset of the connection.
 * filter_var — Filters a variable with a specified filter. There are multiple types of `filter <http://php.net/manual/en/filter.filters.php>`_ such as Validate, Sanitize etc.
-
+* `Exploitable PHP Functions <https://gist.github.com/mccabe615/b0907514d34b2de088c4996933ea1720>`_
 BurpSuite
 =========
 
